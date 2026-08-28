@@ -23,7 +23,6 @@ module cla64_blocked(
   // TODO: your sixteen cla4 instances go here.
 
 
-
   cla4 block0 (
     .a(a[3:0]),
     .b(b[3:0]),
