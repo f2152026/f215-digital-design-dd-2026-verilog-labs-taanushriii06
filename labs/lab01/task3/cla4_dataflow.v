@@ -39,4 +39,5 @@ assign #(2) cout=g[3]|(p[3]&g[2])|(p[3]&p[2]&g[1])|(p[3]&p[2]&p[1]&g[0])|(p[3]&p
 
 assign #(2) sum=p^{c3,c2,c1,cin};
 
+
 endmodule
