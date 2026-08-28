@@ -25,6 +25,7 @@ module cla4_dataflow(
   wire c1, c2, c3;
 
   // TODO: your dataflow (assign) statements go here.
+  
 assign #(2) p=a^b;
 assign #(2) g=a&b;
 
